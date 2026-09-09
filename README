@@ -1,0 +1,35 @@
+# EnterpriseFlow
+
+EnterpriseFlow is a production-oriented multi-tenant SaaS platform
+built to explore modern web engineering, distributed systems,
+cloud-native architecture, and DevOps.
+
+## Architecture
+
+Current stage:
+
+- Next.js
+- Go
+- Gin
+- PostgreSQL
+- Redis
+- Docker Compose
+
+Future:
+
+- gRPC
+- Kafka
+- Kubernetes
+- Helm
+- Argo CD
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Service Mesh
+
+## Development
+
+Start infrastructure:
+
+```bash
+make infra-up
